@@ -1,1 +1,2 @@
 hello git!
+Let's enjoy your git life
